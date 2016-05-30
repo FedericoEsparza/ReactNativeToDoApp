@@ -15,5 +15,5 @@ Install react-native-cli:
   
 `react-native init ReactNativeToDoApp` 
   
- Change directories into project folder `cd ReactNativeToDoApp` and install these packages: `npm i eslint babel-eslint eslint-config-airbnb eslint-plugin-react`
+ Change directories into project folder `cd ReactNativeToDoApp` and install these packages: `npm i eslint babel-eslint eslint-config-airbnb eslint-plugin-react --save`
 
